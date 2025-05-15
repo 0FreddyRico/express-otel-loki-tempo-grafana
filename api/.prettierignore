@@ -1,0 +1,15 @@
+**/node_modules
+**/dist
+**/coverage
+
+.vscode/*
+!.vscode/settings.json
+
+Dockerfile*
+docker-compose*
+
+*.log
+*.env*
+
+*lock*
+

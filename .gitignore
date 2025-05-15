@@ -1,0 +1,10 @@
+**/node_modules
+**/dist
+**/coverage
+
+.vscode/*
+!.vscode/settings.json
+
+*.log
+*.env*
+!*.env.template
